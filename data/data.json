@@ -58,5 +58,71 @@
         "time": "2200",
         "zip-code": "89108",
         "attendees": 15
+    },
+    {
+        "event": "Magic Mike live",
+        "time": "1900",
+        "zipcode": "89109",
+        "attendees": 10
+    },
+    {
+        "event": "RuPaul Drag Race Live",
+        "time": "2130",
+        "zipcode": "89109",
+        "attendees": 3
+    },
+    {
+        "event": "Bruno Mars @ Dolby Live",
+        "time": "2000",
+        "zipcode": "89104",
+        "attendees": 15
+    },
+    {
+        "event": "Adele @ Caesars Palace",
+        "time": "2000",
+        "zipcode": "89104",
+        "attendees": 15
+    },
+    {
+        "event": "Mad Apple by Cirque du Solei @ NY NY",
+        "time": "1900",
+        "zipcode": "89119",
+        "attendees": 5
+    },
+    {
+        "event": "Jimmy Kimmy Comedy Club @ Linq",
+        "time": "1930",
+        "zipcode": "89101",
+        "attendees": 7
+    },
+    {
+        "event": "Elvis Spirit Of The King",
+        "time": "2030",
+        "zipcode": "89101",
+        "attendees": 3
+    },
+    {
+        "event": "Kygo @ Marquee Day Club",
+        "time": "1100",
+        "zipcode": 89119,
+        "attendees": 15
+    },
+    {
+        "event": "Calvin Harris @ Wet Republic",
+        "time": "1200",
+        "zipcode": 89183,
+        "attendees": 13
+    },
+    {
+        "event": "Marshmello @ XS Nightclub",
+        "time": "2300",
+        "zipcode": 89101,
+        "attendees": 15
+    },
+    {
+        "event": "Drake @ XS Hakkasan",
+        "time": "2300",
+        "zipcode": 89101,
+        "attendees": 15
     }
 ]
