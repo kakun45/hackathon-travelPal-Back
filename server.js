@@ -18,6 +18,10 @@ app.get("/:zipId", (req, res) => {
   res.status(200).json(data);
 });
 
+app.post("/");
+// static endpoint for images
+app.use("/images", express.static("./public/images"));
+
 app.listen(PORT || 8080, () => {
   console.log("Server is up 👍 on " + PORT || 8000);
 });
