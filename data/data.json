@@ -3,126 +3,147 @@
         "event": "Dinner in the Sky-Las Vegas",
         "time": "2000",
         "zipcode": "89109",
-        "attendees": 10
+        "attendees": 10,
+        "image": "http://localhost:8000/images/image1.jpeg"
     },
     {
         "event": "The Neon Museum Las Vegas",
         "time": "1500",
         "zipcode": "89104",
-        "attendees": 3
+        "attendees": 3,
+        "image": "http://localhost:8000/images/image2.jpeg"
     },
     {
         "event": "Fly LINQ Zipline Las Vegas",
         "time": "1600",
         "zipcode": "89108",
-        "attendees": "5"
+        "attendees": "5",
+        "image": "http://localhost:8000/images/image3.jpeg"
     },
     {
         "event": "The Forum Shops at Caesars",
         "time": "1100",
         "zipcode": "89183",
-        "attendees": 7
+        "attendees": 7,
+        "image": "http://localhost:8000/images/image4.jpeg"
     },
     {
         "event": "Vegas Mini Baja Chase Dune Buggy Adventure",
         "time": "1300",
         "zipcode": "89115",
-        "attendees": 12
+        "attendees": 12,
+        "image": "http://localhost:8000/images/image5.jpeg"
     },
     {
         "event": "Fogo de Chão Brazilian Steakhouse",
         "time": "1900",
         "zipcode": "89104",
-        "attendees": 6
+        "attendees": 6,
+        "image": "http://localhost:8000/images/image6.jpeg"
     },
     {
         "event": "FoodieLand Night Market ",
         "time": "16:00",
         "zipcode": "89104",
-        "attendees": 5
+        "attendees": 5,
+        "image": "http://localhost:8000/images/image7.jpeg"
     },
     {
         "event": "2023 Great Vegas Festival of Beer",
         "time": "1400",
         "zipcode": "89104",
-        "attendees": 5
+        "attendees": 5,
+        "image": "http://localhost:8000/images/image8.jpeg"
     },
     {
         "event": "Wines of the World and Gourmet Food Tasting: CDF",
         "time": "1800",
         "zipcode": "89109",
-        "attendees": 14
+        "attendees": 14,
+        "image": "http://localhost:8000/images/image9.jpeg"
     },
     {
         "event": "Hoop Madness at Chickie's & Pete's",
         "time": "2200",
         "zipcode": "89108",
-        "attendees": 15
+        "attendees": 9,
+        "image": "http://localhost:8000/images/image10.jpeg"
     },
     {
         "event": "Magic Mike live",
         "time": "1900",
         "zipcode": "89109",
-        "attendees": 10
+        "attendees": 10,
+        "image": "http://localhost:8000/images/image11.jpeg"
     },
     {
         "event": "RuPaul Drag Race Live",
         "time": "2130",
         "zipcode": "89109",
-        "attendees": 3
+        "attendees": 3,
+        "image": "http://localhost:8000/images/image12.jpeg"
     },
     {
         "event": "Bruno Mars @ Dolby Live",
         "time": "2000",
         "zipcode": "89104",
-        "attendees": 15
+        "attendees": 15,
+        "image": "http://localhost:8000/images/image13.jpeg"
     },
     {
         "event": "Adele @ Caesars Palace",
         "time": "2000",
         "zipcode": "89104",
-        "attendees": 15
+        "attendees": 15,
+        "image": "http://localhost:8000/images/image14.jpeg"
     },
     {
         "event": "Mad Apple by Cirque du Solei @ NY NY",
         "time": "1900",
         "zipcode": "89119",
-        "attendees": 5
+        "attendees": 5,
+        "image": "http://localhost:8000/images/image15.jpeg"
     },
     {
         "event": "Jimmy Kimmy Comedy Club @ Linq",
         "time": "1930",
         "zipcode": "89101",
-        "attendees": 7
+        "attendees": 7,
+        "image": "http://localhost:8000/images/image16.jpeg"
     },
     {
         "event": "Elvis Spirit Of The King",
         "time": "2030",
         "zipcode": "89101",
-        "attendees": 3
+        "attendees": 3,
+        "image": "http://localhost:8000/images/image17.jpeg"
     },
     {
         "event": "Kygo @ Marquee Day Club",
         "time": "1100",
         "zipcode": 89119,
-        "attendees": 15
+        "attendees": 15,
+        "image": "http://localhost:8000/images/image18.jpeg"
     },
     {
         "event": "Calvin Harris @ Wet Republic",
         "time": "1200",
         "zipcode": 89183,
-        "attendees": 13
+        "attendees": 13,
+        "image": "http://localhost:8000/images/image19.jpeg"
     },
     {
         "event": "Marshmello @ XS Nightclub",
         "time": "2300",
         "zipcode": 89101,
-        "attendees": 15
+        "attendees": 15,
+        "image": "http://localhost:8000/images/image20.jpeg"
     },
     {
         "event": "Drake @ XS Hakkasan",
         "time": "2300",
         "zipcode": 89101,
-        "attendees": 15
+        "attendees": 15,
+        "image": "http://localhost:8000/images/image21.jpeg"
     }
 ]
