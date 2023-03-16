@@ -2,61 +2,61 @@
     {
         "event": "Dinner in the Sky-Las Vegas",
         "time": "2000",
-        "zip-code": "89109",
+        "zipcode": "89109",
         "attendees": 10
     },
     {
         "event": "The Neon Museum Las Vegas",
         "time": "1500",
-        "zip-code": "89104",
+        "zipcode": "89104",
         "attendees": 3
     },
     {
         "event": "Fly LINQ Zipline Las Vegas",
         "time": "1600",
-        "zip-code": "89108",
+        "zipcode": "89108",
         "attendees": "5"
     },
     {
         "event": "The Forum Shops at Caesars",
         "time": "1100",
-        "zip-code": "89183",
+        "zipcode": "89183",
         "attendees": 7
     },
     {
         "event": "Vegas Mini Baja Chase Dune Buggy Adventure",
         "time": "1300",
-        "zip-code": "89115",
+        "zipcode": "89115",
         "attendees": 12
     },
     {
         "event": "Fogo de Chão Brazilian Steakhouse",
         "time": "1900",
-        "zip-code": "89104",
+        "zipcode": "89104",
         "attendees": 6
     },
     {
         "event": "FoodieLand Night Market ",
         "time": "16:00",
-        "zip-code": "89104",
+        "zipcode": "89104",
         "attendees": 5
     },
     {
         "event": "2023 Great Vegas Festival of Beer",
         "time": "1400",
-        "zip-code": "89104",
+        "zipcode": "89104",
         "attendees": 5
     },
     {
         "event": "Wines of the World and Gourmet Food Tasting: CDF",
         "time": "1800",
-        "zip-code": "89109",
+        "zipcode": "89109",
         "attendees": 14
     },
     {
         "event": "Hoop Madness at Chickie's & Pete's",
         "time": "2200",
-        "zip-code": "89108",
+        "zipcode": "89108",
         "attendees": 15
     },
     {
