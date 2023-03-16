@@ -18,7 +18,7 @@ app.get("/:zipId", (req, res) => {
   res.status(200).json(data);
 });
 
-app.post("/");
+// app.post("/");
 // static endpoint for images
 app.use("/images", express.static("./public/images"));
 
