@@ -58,7 +58,7 @@
     {
         "event": "2023 Great Vegas Festival of Beer",
         "time": "1400",
-        "zipcode": "89104",
+        "zipcode": "89115",
         "attendees": 5,
         "image": "http://localhost:8000/images/image8.jpeg",
         "id": "091273123"
