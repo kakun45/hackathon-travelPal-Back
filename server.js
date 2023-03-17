@@ -2,6 +2,7 @@
 const express = require("express");
 const app = express();
 const cors = require("cors");
+const array_unique = require("array-hyper-unique").array_unique;
 
 require("dotenv").config();
 const { PORT } = process.env;
@@ -19,7 +20,6 @@ app.get("/:zipId", (req, res) => {
 });
 
 // app.post("/", (req, res) => {});
-
 // static endpoint for images
 app.use("/images", express.static("./public/images"));
 
