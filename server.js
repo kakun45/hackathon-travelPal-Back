@@ -2,14 +2,13 @@
 const express = require("express");
 const app = express();
 const cors = require("cors");
-const array_unique = require("array-hyper-unique").array_unique;
 
 require("dotenv").config();
 const { PORT } = process.env;
 app.use(cors());
 app.use(express.json());
 const { readData } = require("./controllers/controllers");
-const router = express.Router();
+// const router = express.Router();
 
 app.get("/:zipId", (req, res) => {
   const { zipId } = req.params;
@@ -23,6 +22,6 @@ app.get("/:zipId", (req, res) => {
 // static endpoint for images
 app.use("/images", express.static("./public/images"));
 
-app.listen(PORT || 8080, () => {
+app.listen(PORT || 8000, () => {
   console.log("Server is up 👍 on " + PORT || 8000);
 });
