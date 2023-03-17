@@ -13,12 +13,13 @@ const router = express.Router();
 app.get("/:zipId", (req, res) => {
   const { zipId } = req.params;
   let data = readData();
-  // console.log(data);
+  // filter out selected zipcode
   data = data.filter((obj) => obj.zipcode === zipId);
   res.status(200).json(data);
 });
 
-// app.post("/");
+// app.post("/", (req, res) => {});
+
 // static endpoint for images
 app.use("/images", express.static("./public/images"));
 
