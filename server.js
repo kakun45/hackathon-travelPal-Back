@@ -13,7 +13,7 @@ const router = express.Router();
 app.get("/:zipId", (req, res) => {
   const { zipId } = req.params;
   let data = readData();
-  console.log(data);
+  // console.log(data);
   data = data.filter((obj) => obj.zipcode === zipId);
   res.status(200).json(data);
 });
