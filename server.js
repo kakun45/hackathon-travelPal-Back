@@ -1,4 +1,4 @@
-// BACKEND! NO local Storage
+// BACKEND!
 const express = require("express");
 const app = express();
 const cors = require("cors");
@@ -8,7 +8,6 @@ const { PORT } = process.env;
 app.use(cors());
 app.use(express.json());
 const { readData } = require("./controllers/controllers");
-// const router = express.Router();
 
 app.get("/:zipId", (req, res) => {
   const { zipId } = req.params;
@@ -18,7 +17,6 @@ app.get("/:zipId", (req, res) => {
   res.status(200).json(data);
 });
 
-// app.post("/", (req, res) => {});
 // static endpoint for images
 app.use("/images", express.static("./public/images"));
 
